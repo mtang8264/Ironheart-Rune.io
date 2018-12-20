@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face{
+	font-family: "Cloister";
+	src: url("Fonts/CloisterBlack.tff");
+	src: url("Fonts/CloisterBlack.woff") format("woff");
+}
+
+.bottom{
+	text-align: center;
+	color: #aaa;
+}
+
+html{
+	background-color: #231E58;
+}
+
+h1{
+	font-family: Cloister;
+	font-weight: 66;
+}
+
+table{
+	border-collapse: collapse;
+}
